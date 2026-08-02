@@ -5,14 +5,15 @@
 The Flutter/Android client for [ChefMate AI](https://github.com/Lavanya3112/chefmate-ai-api) — a Gemini-powered cooking tutor. This app calls the live FastAPI backend to deliver step-by-step lessons, real-life examples, quizzes, and personalized feedback, right on your phone.
 
 ---
-
 ## 🔗 Related Links
 
 | Component | Link |
 |---|---|
 | ⚙️ Backend API (Live) | [chefmate-ai-api.onrender.com](https://chefmate-ai-api.onrender.com) |
+| 🧪 Interactive API Docs / Testing | [chefmate-ai-api.onrender.com/docs](https://chefmate-ai-api.onrender.com/docs) |
 | 💻 Backend Repo | [github.com/Lavanya3112/chefmate-ai-api](https://github.com/Lavanya3112/chefmate-ai-api) |
 | 🌐 Original Streamlit App | [chefmate-ai-cooking-tutor.streamlit.app](https://chefmate-ai-cooking-tutor.streamlit.app/) |
+
 
 ---
 
