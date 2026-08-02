@@ -1,0 +1,29 @@
+name: chefmate_mobile
+description: "ChefMate AI — your AI-powered cooking tutor"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.14.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/hero.jpg
+    - assets/app_icon.png
+
+flutter_launcher_icons:
+  android: true
+  image_path: "assets/app_icon.png"
